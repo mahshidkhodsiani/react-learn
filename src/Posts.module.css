@@ -1,0 +1,15 @@
+.container{
+    background-color: rgb(23, 78, 78);
+    padding: 20px; 
+    margin: 10px;
+    width: 400px ;
+    border-radius: 30px;
+}
+
+.container h2 {
+    color: rgb(155, 132, 107);
+}
+
+.container p {
+    color: rgb(179, 88, 124);
+}
